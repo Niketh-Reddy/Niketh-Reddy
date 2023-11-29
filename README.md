@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niketh-Reddy
-- 👀 I’m interested in Machine Learning and AI applications in Asset Management 
+- 👀 I’m interested in Machine Learning and AI applications in Financial Services 
 - 🌱 I’m currently learning Deep Learning and Natural Language Procssing
 - 💞️ I’m looking to collaborate on data science projects related to investments and financal markets
 - 📫 How to reach me email: vangalanikethreddy2@gmail.com
